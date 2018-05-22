@@ -6,7 +6,7 @@ the script send the information of incidents of trains in france.
 Change your api_key file in main.py and run.
 
 # Todo list
-- itineraire calculator
+- itineraire calculator [done]
 
 
 exemple ouput now :  
